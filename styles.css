@@ -8,9 +8,11 @@ body {
 
 table, td {
   border: 1px solid blue;
-}
-table{
   border-collapse: collapse;
+  
+}
+td{
+  border: 1px solid blue;
 }
 
 h1 {
