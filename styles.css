@@ -1,17 +1,23 @@
+body {
+  font-family: Arial;
+  text-align: Justify;
+}
+
+
 h1 {
-  color: blue;
+  color: #00A2FF;
   text-align: Center;
   
   
 }
 
 h2 {
-  color: darkgreen;
+  color: #007ED0;
   text-align: Center;
 }
 
 h3 {
-  color: darkgreen;
+  color: #007ED0;
   text-align: left;
 }
 
