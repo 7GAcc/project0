@@ -1,0 +1,24 @@
+body {
+  font-family="Arial";
+}
+
+h1 {
+  color: blue;
+  text-align: Center;
+  
+  
+}
+
+h2{
+  color: darkgreen;
+  text-align: Center;
+}
+
+h3{
+  color: darkgreen;
+  text-align: left;
+}
+
+p{
+  text-align: justify;
+}
