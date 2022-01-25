@@ -44,6 +44,6 @@ h3 {
   color: #D91C1C;
 }
 
-ul p {
+ul > ul {
   color: #00468C;
 }
