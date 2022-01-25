@@ -73,3 +73,17 @@ div {
     color: #718FD5;
   }
 }
+
+%Comment {
+  font-family: 'Trebuchet', 'sans-serif';
+  padding: 10px;
+  border: 1px solid skyblue;
+}
+.PSComment {
+  @extend %Comment;
+  background-color: #9080AD
+}
+.PCComment {
+  @extend %Comment;
+  background-color: #C5F2C3
+}
