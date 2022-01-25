@@ -1,13 +1,65 @@
-$h1color: #007ED0;
+$h1color: #AB99FC;
 
-div {
-  color: #61BD7F;
-  
-  ul{
-    color: #7FD2FF;
-  }
+body {
+  font-family: Arial;
+  text-align: Justify;
+  background: #B5E4FF fixed center;
+  margin-left: 125px;
+  margin-right: 125px;
 }
 
-h1{
-  color: h1color;
+table, td{
+  border: 2px solid blue;
+  padding: 5px;
+}
+table{
+   border-collapse: collapse;
+
+}
+
+div{
+  background-color: #A4F5BE;
+}
+
+h1 {
+  color: $h1color;
+  text-align: Center;
+  font-weight: bold;
+  
+}
+
+h2 {
+  color: $h1color;
+  text-align: Center;
+}
+
+h3 {
+  color: #007ED0;
+  text-align: left;
+}
+
+#negative {
+  color: #B32600;
+}
+
+.PlayStation {
+  color: #00C13B;
+}
+
+.PC {
+  color: #D91C1C;
+}
+
+ul > ul {
+  color: #00468C;
+}
+
+a[href="https://htmlpreview"] {
+  color: green;
+}
+
+@media (max-width: 1000px) {
+  body {
+    background-color: #D1FFC8;
+  }
 }
