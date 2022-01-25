@@ -43,3 +43,7 @@ h3 {
 .PC {
   color: #D91C1C;
 }
+
+ul > p {
+  color: #00468C;
+}
