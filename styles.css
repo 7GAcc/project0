@@ -47,3 +47,7 @@ h3 {
 ul > ul {
   color: #00468C;
 }
+
+a[href=https://htmlpreview.github.io/?https://github.com] {
+  color: blue;
+}
