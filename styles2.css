@@ -55,4 +55,15 @@ body {
  div ol {
 	 color: #718fd5;
 }
+ .PSComment, .PCComment {
+	 font-family: 'Trebuchet', 'sans-serif';
+	 padding: 10px;
+	 border: 1px solid skyblue;
+}
+ .PSComment {
+	 background-color: #9080ad;
+}
+ .PCComment {
+	 background-color: #c5f2c3;
+}
  
