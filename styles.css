@@ -52,7 +52,7 @@ a[href="https://htmlpreview.github.io/?https://github.com"] {
   color: green;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
   body {
     background-color: #94DF85;
   }
