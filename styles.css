@@ -1,8 +1,3 @@
-body {
-  font-family: Arial;
-  text-align: Justify;
-}
-
 h1 {
   color: blue;
   text-align: Center;
@@ -10,12 +5,17 @@ h1 {
   
 }
 
-h2{
+h2 {
   color: darkgreen;
   text-align: Center;
 }
 
-h3{
+h3 {
   color: darkgreen;
   text-align: left;
+}
+
+body {
+  font-family: Arial;
+  text-align: Justify;
 }
