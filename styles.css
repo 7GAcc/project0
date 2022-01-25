@@ -9,6 +9,9 @@ body {
 table {
   border: 3px solid black;
 }
+td {
+  border: 1px solid black;
+}
 
 h1 {
   color: #00A2FF;
