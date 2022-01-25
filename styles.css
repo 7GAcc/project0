@@ -6,11 +6,8 @@ body {
   margin-right: 500px;
 }
 
-table {
-  border: 3px solid black;
-}
-td {
-  border: 1px solid black;
+table, td {
+  border: 1px solid blue;
 }
 
 h1 {
