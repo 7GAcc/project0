@@ -9,6 +9,9 @@ body {
 table, td {
   border: 1px solid blue;
 }
+table{
+  border-collapse: collapse;
+}
 
 h1 {
   color: #00A2FF;
