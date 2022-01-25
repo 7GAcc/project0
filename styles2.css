@@ -1,0 +1,51 @@
+body {
+	 font-family: Arial;
+	 text-align: Justify;
+	 background: #b5e4ff fixed center;
+	 margin-left: 125px;
+	 margin-right: 125px;
+}
+ table, td {
+	 border: 2px solid blue;
+	 padding: 5px;
+}
+ table {
+	 border-collapse: collapse;
+}
+ div {
+	 background-color: #a4f5be;
+}
+ h1 {
+	 color: #ab99fc;
+	 text-align: Center;
+	 font-weight: bold;
+}
+ h2 {
+	 color: #ab99fc;
+	 text-align: Center;
+}
+ h3 {
+	 color: #007ed0;
+	 text-align: left;
+}
+ #negative {
+	 color: #b32600;
+}
+ .PlayStation {
+	 color: #00c13b;
+}
+ .PC {
+	 color: #d91c1c;
+}
+ ul > ul {
+	 color: #00468c;
+}
+ a[href="https://htmlpreview"] {
+	 color: green;
+}
+ @media (max-width: 1000px) {
+	 body {
+		 background-color: #d1ffc8;
+	}
+}
+ 
