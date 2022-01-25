@@ -6,14 +6,13 @@ body {
   margin-right: 500px;
 }
 
-table {
+table, td{
   border: 2px solid blue;
-  border-collapse: collapse;
-  
+  padding: 5px;
 }
-td, thead{
-  border: 2px solid blue;
-  padding: 5px
+table{
+   border-collapse: collapse;
+
 }
 
 h1 {
