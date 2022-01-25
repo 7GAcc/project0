@@ -1,5 +1,6 @@
 body {
   font-family="Arial";
+  text-align="Justify";
 }
 
 h1 {
@@ -17,8 +18,4 @@ h2{
 h3{
   color: darkgreen;
   text-align: left;
-}
-
-p{
-  text-align: justify;
 }
